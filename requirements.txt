@@ -1,6 +1,5 @@
 Flask
 numpy
-requests
 scipy
 sklearn
 tensorflow-cpu
