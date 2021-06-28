@@ -1,5 +1,4 @@
 Flask
-jsonify
 numpy
 requests
 scipy
